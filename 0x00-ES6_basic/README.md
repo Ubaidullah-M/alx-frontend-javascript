@@ -1,1 +1,1 @@
-this is the first folder of the ES6 
+0x00. ES6 Basics
